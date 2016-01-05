@@ -57,4 +57,4 @@ void app_start(int, char**) {
 }
 ```
 
-![Button and a LED on a breadboard](assets/bb03.png)
+![Button and a LED on a breadboard](assets/bb03.gif)
