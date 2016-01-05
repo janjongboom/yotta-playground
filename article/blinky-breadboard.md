@@ -12,9 +12,7 @@ To know how we should connect everything together we need to take a look at the 
 
 For the LED sample we just need a ground pin and a digital pin, so note down the digital pin you're using (on the image below I wired it up to an FRDM-K64F on pin PTB23) and set up the circuit.
 
-![Sketch of a LED wired up on a breadboard](assets/bb-sketch-led.png)
-
-![LED wired up on a breadboard](assets/bb02.png)
+![Sketch of a LED wired up on a breadboard](assets/bb-sketch-led.png) ![LED wired up on a breadboard](assets/bb02.png)
 
 *Black wire running from GND to the short leg of the LED. Orange wire running from PTB23 via a resistor to the long leg of the LED.*
 
